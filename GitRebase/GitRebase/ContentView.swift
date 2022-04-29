@@ -16,6 +16,8 @@ struct ContentView: View {
             .padding()
         Text("This is B2")
             .padding()
+        Text("This is new")
+            .padding()
     }
 }
 
